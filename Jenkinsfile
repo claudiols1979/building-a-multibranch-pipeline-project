@@ -11,7 +11,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                sh 'rm -r node_modules'
+                // sh 'rm -r node_modules'
                 sh 'chown -R 112:117 "/.npm"'
                 sh 'npm install'
             }
