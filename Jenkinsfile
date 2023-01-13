@@ -1,5 +1,3 @@
-Jenkinsfile (Declarative Pipeline)
-#!groovy
 @Library('bitwiseman-shared@blog/declarative/notifications') _ 
 
 pipeline {
