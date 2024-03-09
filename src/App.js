@@ -19,8 +19,8 @@ function App() {
         </a>
         <br/>
           This is a new line I added.
-        <br/>
-        This is a new line I added.
+          <br/>
+          This is a second line I added.
       </header>
     </div>
   );
